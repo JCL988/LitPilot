@@ -1,0 +1,35 @@
+# API keys — NEVER commit these
+.env
+
+# Paper files (don't commit PDFs to git)
+incoming/*.pdf
+incoming/*.docx
+processed/
+
+# Generated outputs
+summaries/individual/*.md
+summaries/synthesis/*.md
+summaries/literature_tracker.xlsx
+summaries/synthesis/last_synthesis_manifest.json
+processing_log.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
