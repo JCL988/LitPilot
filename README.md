@@ -1,4 +1,4 @@
-# LLM-Automated-Literature-Review
+# LitPilot
 
 Automate your PhD literature review using structured LLM agent prompts. Drop PDFs in a folder, get structured markdown notes, an Excel tracker, and cross-paper synthesis reports.
 
@@ -103,8 +103,8 @@ summaries/synthesis/          Cross-paper synthesis report
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/LLM-Automated-Literature-Review.git
-cd LLM-Automated-Literature-Review
+git clone https://github.com/JCL988/LitPilot.git
+cd LitPilot
 ```
 
 ### 2. Set up a Python virtual environment
