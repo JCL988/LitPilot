@@ -72,6 +72,19 @@ Discovery (Semantic Scholar, ResearchRabbit, etc.)
 - **No subscription** — pay only for API calls (~$0.10-0.30 per paper)
 - **Incremental synthesis** — add papers over months without re-processing
 - **You own the output** — plain markdown and Excel, no vendor lock-in
+- **Fully transparent** — every step produces human-readable output you can inspect, correct, and build on
+
+## You Supervise, AI Assists
+
+This pipeline keeps you in control. The AI does the repetitive work — pulling out structure, tagging relevance, spotting patterns — but everything it produces is a plain text file you can open, read, and edit before moving on.
+
+**Check before you synthesise.** After processing, open the notes in `summaries/individual/` and read through them. Did it get the methodology right? Did it miss something important? If so, just fix the markdown file directly. Only run synthesis once you're happy with the individual notes.
+
+**Decide what to read in full.** The notes help you figure out which papers are worth your time. A paper marked HIGH relevance with methods close to yours probably deserves a proper read. One marked LOW with a useful citation you can note and move on. That's your call, not the AI's.
+
+**Use the notes when you write.** The markdown files are not just summaries to glance at and forget — they are structured notes you can come back to when writing your literature review. The section codes, citation suggestions, and framework tags all map to your review structure, so when you sit down to write, you already have an organised set of notes to work from.
+
+The AI improves your efficiency. It does not replace your judgement — checking and correcting its output is your responsibility.
 
 ## Why This Approach Works
 
